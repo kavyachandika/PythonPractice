@@ -1,4 +1,4 @@
-name = "kavya "
+name = " kavya "
 
 print(name.upper())
 print(name.lower())
